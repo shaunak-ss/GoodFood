@@ -1,3 +1,7 @@
+# About Project
+A responsive full-stack MERN application enabling users to conveniently order various food items.The application uses REST API architecture to process user requests such as creation, maintenance of profile and navigate through the cart, proceed to checkout, and easily update item quantities. 
+Implemented authentication and session management using JWT tokens and BcryptJS, ensuring secure user interactions.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
